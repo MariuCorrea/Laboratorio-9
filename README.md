@@ -27,8 +27,9 @@ FDC 4877
 ![1](https://user-images.githubusercontent.com/76136049/113253521-f9dbb600-928a-11eb-80bf-a807f3315989.PNG)
 - Circuito numero 2 con su respectiva emulación e imágen de onda
 
+![2 1](https://user-images.githubusercontent.com/76136049/113253522-fa744c80-928a-11eb-9189-ae27c66a86e4
 ![2](https://user-images.githubusercontent.com/76136049/113255437-75d6fd80-928d-11eb-9eaf-7e0f4e37f683.jpg)
-![2 1](https://user-images.githubusercontent.com/76136049/113253522-fa744c80-928a-11eb-9189-ae27c66a86e4.PNG)
+.PNG)
 - Circuito numero 3 con su respectiva emulación e imágen de onda
 
 ![3 1](https://user-images.githubusercontent.com/76136049/113253523-fa744c80-928a-11eb-9a78-d41633eef441.PNG)
