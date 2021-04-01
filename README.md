@@ -18,6 +18,7 @@ FDC 4877
 
 ### MARCO TEÓRICO 
 
+![Amplificador Operacional](https://user-images.githubusercontent.com/76136485/113254416-26dc9880-928c-11eb-8a12-f0e3537fb2eb.jpg)
 
 ### DIAGRAMAS
 - Circuito numero 1 con su respectiva emulación e imágen de onda.
@@ -35,6 +36,7 @@ FDC 4877
 
 ### LISTA DE COMPONENTES
 
+![Lista de componentes](https://user-images.githubusercontent.com/76136485/113254413-26440200-928c-11eb-9108-824cc8b38342.png)
 
 ### EXPLICACIÓN
 
