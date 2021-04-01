@@ -20,7 +20,9 @@ FDC 4877
 
 
 ### DIAGRAMAS
-
+- Circuito numero 1 con su respectiva emulación e imágen de onda
+- Circuito numero 2 con su respectiva emulación e imágen de onda
+- Circuito numero 3 con su respectiva emulación e imágen de onda
 
 ### LISTA DE COMPONENTES
 
