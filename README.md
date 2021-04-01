@@ -38,7 +38,7 @@ FDC 4877
 
 ### EXPLICACIÓN
 
-[Link Video](https://youtu.be/rGZyYzdGYcU)
+[Link Video] https://www.youtube.com/watch?v=770NYZYMU04
 
 ### Análisis de resultados
 Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
