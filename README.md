@@ -98,4 +98,4 @@ El amplificador operacional es un componente fundamental de la instrumentación 
 
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
-- EElectronica para todos. (12 Octubre 2020). Amplificadores Operacionales Configuraciones Básicas, Circuitos Electrónicos, Conceptos y Aplicaciones. Obtenido de: http://www.electronicworld.com.mx/uncategorized/amplificadores-operacionales-configuraciones/
+- Electronica para todos. (12 Octubre 2020). Amplificadores Operacionales Configuraciones Básicas, Circuitos Electrónicos, Conceptos y Aplicaciones. Obtenido de: http://www.electronicworld.com.mx/uncategorized/amplificadores-operacionales-configuraciones/
