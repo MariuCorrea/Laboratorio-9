@@ -8,11 +8,13 @@ FDC 4877
 
 ### OBJETIVOS
 #### Objetivo General
--   Instruirse en el uso de bobinas y capacitores en circuitos eléctricos.
+-   Identificar el principal funcionamiento de un Amplicador Operacional.
+-   Realizar análisis experimentales del comportamiento de un amplificador operacional.
 #### Objetivos específicos 
-- Constatar el funcionamiento de las bobinas y capacitores en circuitos DC y AC.
-- Comprobar el funcionamiento de bobinas y capacitores combinados.
-- Formarse con respecto al uso de instrumentos de medida y simuladores.
+- Conocer las aplicaciones básicas que se desarrolan mediante un amplificador operacional.
+- Realizar circuitos mediante el uso de amplificadores operacionales; facilitando así la observación del funcionamiento mediante un osciloscopio,
+- Establecer la relación que existe entre las señales que se generan en la entrada y salidad de cada circuito a simular.
+- Investigar los usos generales de un Amplificador Operacional y sus parámetros técnicos a considerarse.
 
 ### MARCO TEÓRICO 
 
