@@ -24,16 +24,18 @@ FDC 4877
 - Circuito numero 1 con su respectiva emulación e imágen de onda.
 
 ![1 1](https://user-images.githubusercontent.com/76136049/113253520-f9dbb600-928a-11eb-8be4-170598c792ba.PNG)
-![1](https://user-images.githubusercontent.com/76136049/113253521-f9dbb600-928a-11eb-80bf-a807f3315989.PNG)
+
+![sim1](https://user-images.githubusercontent.com/76136049/113316452-f7517e80-92d3-11eb-97ae-afcdae2752ef.PNG)
+
 - Circuito numero 2 con su respectiva emulación e imágen de onda
 
 ![2 1](https://user-images.githubusercontent.com/76136049/113253522-fa744c80-928a-11eb-9189-ae27c66a86e4.PNG)
-![2](https://user-images.githubusercontent.com/76136049/113255437-75d6fd80-928d-11eb-9eaf-7e0f4e37f683.jpg)
+![sim 2](https://user-images.githubusercontent.com/76136049/113316448-f6b8e800-92d3-11eb-995d-0e92cdfee575.PNG)
 
 - Circuito numero 3 con su respectiva emulación e imágen de onda
 
 ![3 1](https://user-images.githubusercontent.com/76136049/113253523-fa744c80-928a-11eb-9a78-d41633eef441.PNG)
-![3](https://user-images.githubusercontent.com/76136049/113253524-fa744c80-928a-11eb-8d36-0dfba25845ad.PNG)
+![sim3](https://user-images.githubusercontent.com/76136049/113316453-f7517e80-92d3-11eb-8c3d-b64bdbd88cb0.PNG)
 
 
 ### LISTA DE COMPONENTES
